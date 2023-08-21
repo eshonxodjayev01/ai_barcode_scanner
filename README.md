@@ -3,3 +3,4 @@
 
 
 # ai_barcode_scanner
+#uzbek
